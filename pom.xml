@@ -14,6 +14,7 @@
     <module>spring</module>
     <module>quarkus</module>
     <module>micronaut-m</module>
+    <module>helidon</module>
   </modules>
 
   <properties>
