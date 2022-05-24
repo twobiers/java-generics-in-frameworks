@@ -13,6 +13,7 @@
     <module>plain-java</module>
     <module>spring</module>
     <module>quarkus</module>
+    <module>micronaut-m</module>
   </modules>
 
   <properties>

@@ -1,0 +1,4 @@
+logger:
+  levels:
+    "io.micronaut": INFO
+    "io.netty": INFO
