@@ -11,7 +11,7 @@
   <packaging>${packaging}</packaging>
 
   <groupId>io.github.twobiers.generics</groupId>
-  <artifactId>micronaut-m</artifactId>
+  <artifactId>micronaut</artifactId>
 
   <properties>
     <packaging>jar</packaging>
